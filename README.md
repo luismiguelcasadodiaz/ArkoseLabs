@@ -1,9 +1,9 @@
 # ArkoseLabs
 Data Analyst Interview Exercise
 
-The following is a short exercise to allow us to understand how you problem solve.  This exercise should take no more than one (1) hour.  Documenting your thinking is more important than the answer.  Please include any scripts or visualisations that you may have used in determining your answers.
+The following is a short exercise to allow us to understand how you problem-solve.  This exercise should take no more than one (1) hour.  Documenting your thinking is more important than the answer.  Please include any scripts or visualizations that you may have used in determining your answers.
 
-Included with this exercise are two (2) files which contain movie related data pulled from IMDB:
+Included with this exercise are two (2) files that contain movie-related data pulled from IMDB:
 
 ## title_basics_2018.csv - A file containing all movies released in 2018, including the following columns:
 
@@ -33,6 +33,6 @@ Included with this exercise are two (2) files which contain movie related data p
 - According to the provided dataset, how many 2018 films were categorized as a Comedy? 
 - According to the provided dataset, how many 2018 films got a score of 8.0 or higher?  (Note that this will require joining the two datasets together)
 - What was the best film of 2018?
-- Do audiences prefer longer films, or shorter films?  You may choose to simply outline your methodology to approach this problem.
+- Do audiences prefer longer films or shorter films?  You may choose to simply outline your methodology to approach this problem.
 
-## [my answer](https://github.com/luismiguelcasadodiaz/ArkoseLabs/blob/main/Arkose_Labs_Security_interview.ipynb)
+## [My answer](https://github.com/luismiguelcasadodiaz/ArkoseLabs/blob/main/Arkose_Labs_Security_interview.ipynb)
