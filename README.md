@@ -34,3 +34,5 @@ Included with this exercise are two (2) files which contain movie related data p
 - According to the provided dataset, how many 2018 films got a score of 8.0 or higher?  (Note that this will require joining the two datasets together)
 - What was the best film of 2018?
 - Do audiences prefer longer films, or shorter films?  You may choose to simply outline your methodology to approach this problem.
+
+## [my answer](https://github.com/luismiguelcasadodiaz/ArkoseLabs/blob/main/Arkose_Labs_Security_interview.ipynb)
